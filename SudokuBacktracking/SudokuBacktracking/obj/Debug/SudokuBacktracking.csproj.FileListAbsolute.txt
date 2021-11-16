@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\bin\Debug\SudokuBacktracking.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\bin\Debug\SudokuBacktracking.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\bin\Debug\SudokuBacktracking.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\obj\Debug\SudokuBacktracking.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\obj\Debug\SudokuBacktracking.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\obj\Debug\SudokuBacktracking.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\SudokuBacktracking\SudokuBacktracking\obj\Debug\SudokuBacktracking.pdb
