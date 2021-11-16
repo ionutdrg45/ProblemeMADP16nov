@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\bin\Debug\nQueensBacktracking.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\bin\Debug\nQueensBacktracking.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\bin\Debug\nQueensBacktracking.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\obj\Debug\nQueensBacktracking.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\obj\Debug\nQueensBacktracking.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\obj\Debug\nQueensBacktracking.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\nQueensBacktracking\nQueensBacktracking\obj\Debug\nQueensBacktracking.pdb
